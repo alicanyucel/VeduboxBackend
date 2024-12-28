@@ -1,0 +1,6 @@
+@VeduboxBackend.WebAPI_HostAddress = http://localhost:5193
+
+GET {{VeduboxBackend.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
